@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML&Ai
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Kaggle Projects
-- 📫 How to reach me : Mail me on unicaofficial123@gmail.com
+- 📫 How to reach me : Mail me on munshisahilahmed@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: NuLL
 
