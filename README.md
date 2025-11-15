@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Unica,<br>I'm currently working with multi-agent frameworks and building intelligent, agentic applications. I’m a university student, and outside of my coursework I’m self-learning Computer Vision and Large Language Models (LLMs).<br><br>I have hands on experience with:<br><br>Classical Machine Learning<br><br>Deep Learning<br><br>Agent Orchestration & Multi Agent Systems<br><br>I'm always open to collaborating on interesting ML and AI projects. Feel free to connect!<br><br>
+Hi, I'm Sahil,<br>I'm currently working with multi-agent frameworks and building intelligent, agentic applications. I’m a university student, and outside of my coursework I’m self-learning Computer Vision and Large Language Models (LLMs).<br><br>I have hands on experience with:<br><br>Classical Machine Learning<br><br>Deep Learning<br><br>Agent Orchestration & Multi Agent Systems<br><br>I'm always open to collaborating on interesting ML and AI projects. Feel free to connect!<br><br>
 
 
 ## 🌐 Socials:
